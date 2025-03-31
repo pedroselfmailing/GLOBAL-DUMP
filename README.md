@@ -2,7 +2,7 @@
 JAPONÊS
 Number(s): 587, 572, 612, 663, 590, 699, 543
 CHINÊS
-Number(s): 212, 102, 38, 204, 75, 50, 41 
+007
 ESPANHOL
 Number(s): 325, 365, 345, 461, 333, 277, 337 
 FRANCÊS 
