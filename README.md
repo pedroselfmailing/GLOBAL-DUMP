@@ -11,9 +11,10 @@ MEDICINA
 @20250331
 TVP Number(s): 2025, 2020, 2022, 2015, 2021
 CA ESTÔMAGO Number(s): 2019, 2017, 2020, 2021, 2018
+@ASA
 @20250401
 CA ESTÔMAGO 2025, 2024, 2023, 2022, 2015
-CONFUNDIDORES D-DIMERO
+@CONFUNDIDORES D-DIMERO
 @20250403
 TVP 2024, 2023, 2019, 2018, 2017
 
@@ -60,7 +61,7 @@ allégement
 raccrocher
 ancrer
 
-CONFUNDIDORES D-DIMERO
+@CONFUNDIDORES D-DIMERO
 ChatGPT
 
 Você disse:
@@ -103,3 +104,15 @@ TVP recorrente – Em pessoas com episódios prévios de TVP, o D-dímero pode p
 Uso inadequado do exame – Se a probabilidade clínica de TVP for alta (com base no escore de Wells, por exemplo), um D-dímero negativo isolado não é suficiente para excluir a doença.
 
 Por isso, em pacientes sem fatores de risco significativos, um D-dímero negativo praticamente exclui TVP. Mas em casos especiais, como câncer ou eventos recorrentes, é necessário associar outros exames, como o eco-Doppler venoso.
+
+@ASA
+Aqui está um resumo simples da **Classificação da ASA (American Society of Anesthesiologists)**:  
+
+- **ASA I**: Paciente saudável, sem doença sistêmica.  
+- **ASA II**: Paciente com doença sistêmica leve, sem limitações funcionais (ex.: hipertensão controlada, diabetes sem complicações).  
+- **ASA III**: Paciente com doença sistêmica grave, mas sem risco iminente de morte (ex.: diabetes com complicações, ICC compensada).  
+- **ASA IV**: Paciente com doença sistêmica grave que representa ameaça constante à vida (ex.: ICC descompensada, insuficiência renal grave).  
+- **ASA V**: Paciente moribundo, que provavelmente não sobreviverá sem a cirurgia (ex.: ruptura de aneurisma da aorta, choque séptico grave).  
+- **ASA VI**: Paciente com morte cerebral, mantido vivo para doação de órgãos.  
+
+Se precisar de mais detalhes, me avise!
