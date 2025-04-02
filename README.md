@@ -1,3 +1,50 @@
+- [x] 22:40 - 22:45
+- [x] 22:45 - 22:50
+- [x] 22:50 - 22:55
+- [x] 22:58 - 23:03
+- [x] 23:03 - 23:08
+
+- [x] 51 - 68
+- [x] 34 - 51
+- [x] 68 - 84
+- [x] 0 - 17
+- [ ] 17 - 34
+
+Papilar intraductal --> Borderline maligno, depende de como acomete o ducto
+// --> Mucina + Comunicação com o ducto = pancreatites de recorrência
+
+Pancreas divisum --> Wirsung e Santorini não se fundem
+
+Papilifero intraductal e Pseudocisto --> comunicam-se
+Pseudopapilar --> Unico que tem malign mas nao mucina ou CEA
+
+
+Papel da QT no pancreas sólido
+- ADJ sempre que nao tiver sido feito neo
+- Neo pode ser considerado se tumoe borderline ressecavel
+
+Exame para suspeita de tumor solido do pancreas:
+- Se ictericia, ultrassonografia
+- Se perda de peso e constitucionais, TC
+- + Laparoscopia se tumor grande, evidencia de disseminacao oculta, CA 19.9 elevado
+
+NSSP (pseudopapilar) --> Único com CEA inconclusivo e mucina baixa com alto risco de malignidade; antigo tumor de Frantz; Cistico-solido; Estroma mixoide
+
+Ia a IIb --> Candidatos a cirurgia
+III --> Não
+
+O **sinal do duplo ducto** na tomografia computadorizada (TC) é um achado característico do **câncer de pâncreas**, especialmente dos tumores da **cabeça pancreática**. Esse sinal consiste na **dilatação simultânea do ducto pancreático principal e do ducto colédoco**, sem a presença de cálculos biliares, sugerindo obstrução neoplásica.  
+
+### **Mecanismo:**
+- O tumor na cabeça do pâncreas **comprime ou infiltra** o ducto pancreático e o ducto biliar comum, levando à sua dilatação progressiva.
+- A dilatação do ducto pancreático geralmente ocorre **antes** da dilatação do ducto biliar.
+- Em casos avançados, pode haver atrofia do parênquima pancreático a jusante da obstrução.
+
+### **Diferencial:**
+O principal diagnóstico diferencial do sinal do duplo ducto é a **pancreatite crônica**, que também pode causar obstrução ductal, mas geralmente está associada a calcificações e um histórico clínico de pancreatite recorrente.
+
+Na suspeita de câncer de pâncreas, o sinal do duplo ducto na TC pode ser complementado com **ressonância magnética (RM) com colangiopancreatografia por ressonância magnética (CPRM)** e, se necessário, uma **ultrassonografia endoscópica com biópsia** para confirmação diagnóstica.
+
 @20250402
 ARTÉRIAS PÂNCREAS 
 INDICAÇÕES LAPAROSCOPIA P/ESTADIAMENTO 
