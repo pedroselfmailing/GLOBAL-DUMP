@@ -1,3 +1,28 @@
+Espirometria
+DPI
+TC de tórax 
+DPOC
+Câncer de pulmão 
+Doenças supurativas pulmonares
+TEP e HAP
+TB
+Asma
+Apneia
+Pneumonia
+Tabagismo
+Pré- e pós-op
+Abdomen agudo
+Esôfago cirúrgico 
+Câncer gástrico 
+Cólon cirúrgico 
+Aterosclerose
+TVP
+Colecistopatias e icterícia obstrutiva
+Pâncreas cirúrgico 
+Hipertensão portal
+Radiologia vascular
+Tumor peri-ampular
+
 @20250405
 設備
 柄
