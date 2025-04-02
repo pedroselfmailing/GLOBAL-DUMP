@@ -21,7 +21,7 @@ TEP e HAP
 TC de tórax 
 DPI
 Apneia
-TB 2020, 2017
+TB | 2020, 2017
 
 @20250405
 設備
