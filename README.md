@@ -1,27 +1,27 @@
 Espirometria
-DPI
-TC de tórax 
-DPOC
-Câncer de pulmão 
+Cólon cirúrgico 
+Colecistopatias e icterícia obstrutiva
+Aterosclerose
 Doenças supurativas pulmonares
-TEP e HAP
-TB
-Asma
-Apneia
+TVP
+Esôfago cirúrgico 
+Câncer de pulmão 
+DPOC
+Pâncreas cirúrgico 
+Radiologia vascular
+Hipertensão portal
+Câncer gástrico 
+Tumor peri-ampular
 Pneumonia
-Tabagismo
 Pré- e pós-op
 Abdomen agudo
-Esôfago cirúrgico 
-Câncer gástrico 
-Cólon cirúrgico 
-Aterosclerose
-TVP
-Colecistopatias e icterícia obstrutiva
-Pâncreas cirúrgico 
-Hipertensão portal
-Radiologia vascular
-Tumor peri-ampular
+Asma
+Tabagismo
+TEP e HAP
+TC de tórax 
+DPI
+Apneia
+TB
 
 @20250405
 設備
