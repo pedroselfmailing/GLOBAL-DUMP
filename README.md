@@ -6,7 +6,8 @@ INDICAÇÕES LAPAROSCOPIA P/ESTADIAMENTO
 
 Tumor grande (> 3 cm?)
 Possivelmente ressecável
-
+CA 19.9 elevado 
+Sem achados de mtx a distância em outros exames (ex. TC, PET)
 
 ARTÉRIAS PÂNCREAS
 
