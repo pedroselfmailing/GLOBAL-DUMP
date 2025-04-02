@@ -1,3 +1,12 @@
+@20250402
+ARTÉRIAS PÂNCREAS 
+
+ARTÉRIAS PÂNCREAS
+
+Cabeça e processo uncinado: são irrigados predominantemente pela artéria pancreatoduodenal superior (ramo da artéria gastroduodenal, que por sua vez é ramo da hepática comum) e pela artéria pancreatoduodenal inferior (ramo da mesentérica superior).
+
+Corpo e cauda: recebem irrigação principalmente da artéria esplênica, que dá origem a múltiplos ramos pancreáticos, como a artéria pancreática dorsal e a artéria pancreática magna.
+
 PÂNCREAS 
 2015
 2024
